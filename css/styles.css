@@ -1,0 +1,21 @@
+
+.card{
+    border:1px solid lightblue;
+    width:20rem;
+    text-align:center;
+border-radius:6px;
+
+}
+.card img {
+    width:100%;
+
+}
+
+.right{
+    border:1px solid lightgray;
+    width:75%;
+    margin-left: 1%;
+}
+.parent{
+    display: flex;
+}
